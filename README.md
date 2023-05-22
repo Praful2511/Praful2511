@@ -2,8 +2,6 @@
 
 <p>Hi, I'm a <b>Full-stack web Developer </b> currently working in blockchain space.</p>
 
-Ping me on twitter: <a href="https://twitter.com/whyshankar">@whyshankar</a>, if you want to talk about web3, tech, or anything else.
-
  <h3>Current Location</h3>
  <p> Ch. Sambhajinagar (Aurangabad), India</p>
 
